@@ -1,0 +1,22 @@
+{
+  "name": "frontend-country-information",
+  "version": "1.0.0",
+  "description": "Je vrienden hebben er inmiddels lucht van gekregen dat je kunt programmeren en sindsdien wordt je \r low key gestalkt met verzoekjes om webapplicaties te bouwen. Je vriend Constantijn wil heel graag\r dat je een applicatie voor hem maakt die feitjes over landen kan ophalen, zodat hij cool kan doen \r met zijn wereldse kennis op borrels en verjaardagen.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ayalena/countriesopdracht.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ayalena/countriesopdracht/issues"
+  },
+  "homepage": "https://github.com/ayalena/countriesopdracht#readme",
+  "dependencies": {
+    "axios": "^0.21.4"
+  }
+}

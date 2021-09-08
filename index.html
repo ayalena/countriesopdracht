@@ -3,8 +3,16 @@
 <head>
     <meta charset="UTF-8">
     <title>Title</title>
+    <link rel="stylesheet" href="styles.css" type="text/css">
 </head>
 <body>
+
+<input type="text" id="input-field" >
+<button type="button" id="search-button" onclick="document.getElementById('input-field').value = ''">SEARCH</button>
+<div id="countryInformation"></div>
+
+<script src="node_modules/axios/dist/axios.min.js"></script>
+<script src="main.js"></script>
 
 </body>
 </html>
